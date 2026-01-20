@@ -1,0 +1,5 @@
+Player URL:
+https://alexkushwaha785.github.io/player/?list=https://raw.githubusercontent.com/alexkushwaha785/d31b2a9b50c0e44e/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/alexkushwaha785/d31b2a9b50c0e44e/refs/heads/master/github_master.m3u8
